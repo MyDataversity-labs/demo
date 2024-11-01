@@ -7,7 +7,7 @@ data = pd.read_csv(input_file)
 # Display the first few rows of the data
 print("Original neww Dsdsdsata:")
 print(data.head())
-
+print("naah")
 # Step 2: Perform some basic data manipulations
 # For example, let's calculate the average of a numeric column and create a new column with the result
 
